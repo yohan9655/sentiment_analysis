@@ -8,5 +8,5 @@ To run the program with given news articles and both flair and nltk type - **pyt
 To scrap articles along with the sentiment analysis program type - **python3 driver.py -g true**. To specify the number of articles type **python3 driver.py -g true -n \<number of articles>**. When specifying the number of articles, -g has to be set to true. 
 If only nltk or only flair need to be run, then type **python3 driver.py \<name>** and replace \<name> with either nltk or flair.
 ## Results for 10 articles.
-(/graphs/fig1.png)
+![](/graphs/fig1.png)
 
