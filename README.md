@@ -14,5 +14,5 @@ The graph [below](/graphs/fig2.png) shows the results of NLTK for 10 articles co
 ![](/graphs/fig2.png)
 The graph [below](/graphs/fig3.png) shows the Subjectivity-Objectivity score of the 10 articles. They were computed using NLTK.
 ![](/graphs/fig3.png)
-Runtime of program when scrapping articles for 10 articles \- 17.60581398010254 seconds.
+Runtime of program when scrapping articles for 10 articles - 17.60581398010254 seconds.  
 Runtime of sentiment analysis (using saved articles) for 10 articles - 13.368945121765137 seconds.
